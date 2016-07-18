@@ -1,2 +1,2 @@
-# dojo-katas
-my katas-dojo for various subjects
+# katas
+my implmentations of katas on various subjects
